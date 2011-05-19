@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Loading">Loading...</string>
+    <string name="Configure_widget">Configure widget</string>
+    <string name="Show_background">Show background</string>
+    <string name="app_name">appWidget</string>
+</resources>

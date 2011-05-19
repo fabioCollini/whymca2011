@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widget_layout"
+	style="@style/widget_layout">
+
+	<ImageView android:id="@+id/img1" style="@style/picture_thumbnail_landscape" />
+
+	<ImageView android:id="@+id/img2" style="@style/picture_thumbnail_landscape" />
+
+	<ImageView android:id="@+id/img3" style="@style/picture_thumbnail_landscape" />
+
+	<ImageView android:id="@+id/img4" style="@style/picture_thumbnail_landscape" />
+
+</LinearLayout>

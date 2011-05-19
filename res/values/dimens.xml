@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_grid_vertical_spacing">5dip</dimen>
+    <dimen name="main_grid_column_width">65dip</dimen>
+    <dimen name="main_grid_padding">3dip</dimen>
+    <dimen name="main_grid_icon_size">48dip</dimen>
+    <dimen name="main_grid_cell_width">65dip</dimen>
+    <dimen name="main_grid_cell_height">80dip</dimen>
+    
+    <dimen name="handler_width">64dip</dimen>
+    <dimen name="handler_height">64dip</dimen>
+    <dimen name="handler_height_near">20dip</dimen>
+
+    <dimen name="handler_helper_button_width">70dip</dimen>
+    <dimen name="handler_helper_button_height">60dip</dimen>
+
+    <dimen name="multi_icon_margin">1dip</dimen>
+
+    <dimen name="single_item_helper_margin">7dip</dimen>
+    <dimen name="single_item_helper_padding">5dip</dimen>
+</resources>

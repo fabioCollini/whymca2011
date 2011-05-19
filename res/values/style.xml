@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="widget_layout">
+		<item name="android:layout_width">fill_parent</item>
+		<item name="android:layout_height">fill_parent</item>
+		<item name="android:orientation">horizontal</item>
+		<item name="android:gravity">center</item>
+		<item name="android:layout_marginLeft">5dip</item>
+		<item name="android:layout_marginRight">5dip</item>
+		<item name="android:background">@drawable/background</item>
+	</style>
+
+	<style name="picture_thumbnail">
+		<item name="android:layout_width">120dip</item>
+		<item name="android:layout_height">90dip</item>
+		<item name="android:layout_margin">5dip</item>
+		<item name="android:focusable">true</item>
+		<item name="android:background">@drawable/selection</item>
+	</style>
+
+	<style name="picture_thumbnail_landscape">
+		<item name="android:layout_width">90dip</item>
+		<item name="android:layout_height">67dip</item>
+		<item name="android:layout_margin">2dip</item>
+		<item name="android:layout_weight">20</item>
+	</style>
+
+	<style name="picture_thumbnail_tablet">
+		<item name="android:layout_width">120dip</item>
+		<item name="android:layout_height">90dip</item>
+		<item name="android:layout_margin">2dip</item>
+		<item name="android:layout_weight">20</item>
+	</style>
+
+	<style name="picture_thumbnail_tablet_2">
+		<item name="android:layout_width">360dip</item>
+		<item name="android:layout_height">270dip</item>
+		<item name="android:layout_margin">2dip</item>
+		<item name="android:layout_weight">20</item>
+	</style>
+
+	<style name="configure_button">
+		<item name="android:layout_height">fill_parent</item>
+		<item name="android:layout_width">wrap_content</item>
+		<item name="android:src">@drawable/gear</item>
+		<item name="android:padding">0px</item>
+		<item name="android:layout_weight">0</item>
+	</style>
+</resources>
